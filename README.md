@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mikedaniels-Code18
-- 👀 I’m interested in Web Development & Android Development
-- 🌱 I’m currently learning to be an Android App Developer
+- 👀 I’m interested in Front-End Development & Android Development
+- 🌱 I’m currently learning to be a Front-End Engineer
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me at mikedaniels754@gmail.com
 
