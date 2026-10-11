@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mikedaniels-Code18
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning to be a Front-End Engineer
+- 🌱 I’m currently learning to be a Front-End Developer
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me at mikedaniels754@gmail.com
 
